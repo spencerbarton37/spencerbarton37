@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spencerbarton37&label=Profile%20views&color=0e75b6&style=flat" alt="spencerbarton37" /> </p>
 
-- 🔭 I’m currently working on **Basic Chess AI**
+- 🔭 I’m currently working on **Basic Chess AI** [https://github.com/spencerbarton37/BasicChessAI](https://github.com/spencerbarton37/BasicChessAI)
 
 - 🌱 I’m currently learning **Python, scikit_learn**
 
